@@ -1,0 +1,31 @@
+AI Around Me – 10 Real-Life AI Applications I Use Daily
+
+1. Google Search
+   When I search for something, AI ranks the best results using machine learning models that understand keywords, user behavior, and relevance.
+
+2. YouTube Recommendations
+   YouTube suggests videos based on what I watch, like, or skip using machine learning to predict my interests.
+
+3. Instagram Feed & Reels
+   Instagram shows posts and reels based on my activity (likes, shares, watch time) using ML recommendation systems.
+
+4. Google Maps Navigation
+   Google Maps predicts traffic and suggests the fastest routes by analyzing real-time data using machine learning algorithms.
+
+5. Voice Assistant (Google Assistant)
+   Google Assistant understands my voice commands using speech recognition and Natural Language Processing (NLP).
+
+6. Spam Detection in Gmail
+   Gmail automatically classifies emails as spam or not using ML models trained on millions of email patterns.
+
+7. Online Shopping (Amazon / Flipkart)
+   Amazon and Flipkart recommend products based on my browsing and purchase history using recommendation algorithms.
+
+8. Auto-Correct & Predictive Text (Keyboard)
+   My phone suggests words while typing using machine learning models trained on language patterns.
+
+9. Face Unlock in Smartphone
+   My phone unlocks by recognizing my face using computer vision and deep learning models.
+
+10. Music Apps (Spotify / Gaana)
+    Spotify and Gaana recommend songs based on my listening habits using machine learning to understand my music taste.
