@@ -1,0 +1,31 @@
+ML Idea Generator
+
+1. College Domain – Student Performance Prediction
+   Problem: Predict student performance based on study habits
+   Input: Study hours, attendance, assignment scores, previous marks
+   Output: Predicted final grade (A/B/C/Fail)
+
+2. Healthcare Domain – Disease Prediction
+   Problem: Predict risk of diseases (e.g., diabetes or heart disease)
+   Input: Age, weight, blood pressure, sugar levels, lifestyle habits
+   Output: Disease risk (High / Medium / Low)
+
+3. Shopping Domain – Product Recommendation System
+   Problem: Recommend products to users
+   Input: User browsing history, purchase history, ratings
+   Output: Personalized product suggestions
+
+4. College/Transport – Smart Parking System
+   Problem: Predict parking availability
+   Input: Time, day, past parking data
+   Output: Available parking spots
+
+5. Food/College Canteen – Demand Prediction
+   Problem: Predict food demand in canteen
+   Input: Day, weather, past sales, menu items
+   Output: Expected quantity of food
+
+6. Social Media – Sentiment Analysis
+   Problem: Analyze user opinions
+   Input: Text (comments, reviews)
+   Output: Sentiment (Positive / Negative / Neutral)
