@@ -1,0 +1,60 @@
+Assignment Date: 12/03/2026
+Assignment Name: Decision Tree on Paper
+
+---
+
+### 1. Introduction
+
+A Decision Tree is a supervised machine learning algorithm used for classification and decision-making. It uses a tree-like structure to represent decisions and their possible outcomes.
+
+---
+
+### 2. Objective
+
+To design a decision tree that predicts whether a person should play outside based on weather conditions.
+
+---
+
+### 3. Features Used
+
+* Outlook (Sunny, Rainy, Overcast)
+* Temperature (Hot, Mild, Cool)
+* Humidity (High, Normal)
+* Wind (Weak, Strong)
+
+---
+
+### 4. Decision Tree Structure
+
+Draw the following tree:
+
+```
+                Outlook
+              /    |     \
+          Sunny  Overcast  Rainy
+           /         |        \
+      Humidity      Yes      Wind
+       /   \                 /   \
+    High  Normal        Strong  Weak
+     No      Yes          No     Yes
+```
+
+---
+
+### 5. Explanation
+
+* If Outlook is Overcast → Play = Yes
+* If Outlook is Sunny:
+
+  * Humidity High → No
+  * Humidity Normal → Yes
+* If Outlook is Rainy:
+
+  * Wind Strong → No
+  * Wind Weak → Yes
+
+---
+
+### 6. Conclusion
+
+Decision Trees help in making decisions based on conditions. They are easy to understand and useful for real-life problems like weather-based predictions.
