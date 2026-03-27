@@ -1,0 +1,22 @@
+Features for Spam Detection:
+
+1. Presence of keywords:
+   Words like "free", "win", "offer", "urgent", "click here"
+
+2. Message length:
+   Spam messages are often longer or unusually short
+
+3. Use of special characters:
+   Excessive use of !!! $$$ ###
+
+4. Links in message:
+   Presence of URLs or suspicious links
+
+5. Sender information:
+   Unknown or suspicious sender
+
+6. Capital letters:
+   FULL CAPS words often indicate spam
+
+7. Frequency of messages:
+   Repeated messages from same sender

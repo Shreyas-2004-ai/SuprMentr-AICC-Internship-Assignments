@@ -1,0 +1,18 @@
+Possible Mistakes in Spam Classification:
+
+1. False Positive:
+   A normal message is marked as spam
+   Example: Important email with the word "offer"
+
+2. False Negative:
+   A spam message is marked as normal
+   Example: Clever scam message without obvious spam words
+
+3. Data bias:
+   If training data is not balanced, model may give wrong predictions
+
+4. Language issues:
+   Slang, different languages, or spelling mistakes can confuse the model
+
+5. Overfitting:
+   Model memorizes training data and fails on new data
