@@ -1,0 +1,139 @@
+Assignment Date: 20/03/2026
+Assignment Name: Text Challenges
+
+---
+
+1. Introduction
+
+In Natural Language Processing (NLP), text data is often messy and unstructured. It may contain slang, emojis, and spelling mistakes. Preprocessing is required to clean and prepare the text for analysis.
+
+---
+
+2. Objective
+
+To collect messy sentences, identify issues like slang, emojis, and typos, and explain how to preprocess them.
+
+---
+
+3. Messy Sentences and Issues
+
+4. "Hey brooo 😂 what r u doing??"
+
+   * Slang: brooo, r, u
+   * Emoji: 😂
+   * Typo: brooo (extra letters)
+
+5. "OMG!!! this is sooo coool 🔥🔥"
+
+   * Slang: OMG
+   * Emoji: 🔥
+   * Typo: sooo, coool
+
+6. "I canttt believe this happend 😢"
+
+   * Typo: canttt, happend
+   * Emoji: 😢
+
+7. "Plzz send me d link asap!!"
+
+   * Slang: Plzz, d, asap
+
+8. "LOL that was funny 😂😂"
+
+   * Slang: LOL
+   * Emoji: 😂
+
+9. "Gud mrng frnd 😊"
+
+   * Slang: Gud, mrng, frnd
+   * Emoji: 😊
+
+10. "Wat r u saying??"
+
+    * Slang: Wat, r, u
+
+11. "Thnks a lottt!!!"
+
+    * Typo: Thnks, lottt
+
+12. "I luv this song sooo much ❤️"
+
+    * Slang: luv
+    * Emoji: ❤️
+    * Typo: sooo
+
+13. "C u soon 👍"
+
+    * Slang: C, u
+    * Emoji: 👍
+
+14. "Dis is not gud 😒"
+
+    * Slang: Dis, gud
+    * Emoji: 😒
+
+15. "Y u late bro??"
+
+    * Slang: Y, u
+
+16. "Hiiiii how r uuu??"
+
+    * Typo: Hiiiii, uuu
+
+17. "Tmrw we will go out 😎"
+
+    * Slang: Tmrw
+    * Emoji: 😎
+
+18. "Bday party was littt 🔥"
+
+    * Slang: Bday, littt
+    * Emoji: 🔥
+
+19. "Dont wrry evrything is fine 😊"
+
+    * Typo: wrry, evrything
+    * Emoji: 😊
+
+20. "Im soooo tired rn 😴"
+
+    * Slang: rn
+    * Emoji: 😴
+    * Typo: soooo
+
+21. "Pls reply asap 🙏"
+
+    * Slang: Pls, asap
+    * Emoji: 🙏
+
+22. "Thats gr8 news 😁"
+
+    * Slang: gr8
+    * Emoji: 😁
+
+23. "Okiee see u ltr 👋"
+
+    * Slang: Okiee, u, ltr
+    * Emoji: 👋
+
+---
+
+4. Preprocessing Techniques
+
+To clean the text, the following steps are used:
+
+* Convert text to lowercase
+* Remove emojis
+* Correct spelling mistakes
+* Expand slang words (e.g., "u" → "you")
+* Remove special characters
+* Remove extra repeated letters
+* Tokenization (split words)
+
+---
+
+5. Conclusion
+
+Text preprocessing is an important step in NLP. It helps convert messy and unstructured text into clean data, improving the performance of machine learning models.
+
+---
