@@ -1,0 +1,72 @@
+Assignment Date: 19/03/2026
+Assignment Name: Mini Project Proposal
+
+---
+
+1. Project Title
+   House Price Prediction System
+
+---
+
+2. Problem Statement
+
+Buying or selling a house requires understanding its correct market value. Many people find it difficult to estimate house prices accurately. This project aims to predict house prices based on key factors such as area, location, and number of rooms.
+
+---
+
+3. Objective
+
+To build a machine learning model that predicts house prices based on input features and helps users estimate property value easily.
+
+---
+
+4. Dataset
+
+The dataset will include the following features:
+
+* Area (in square feet)
+* Number of rooms
+* Location (optional)
+* Price (target value)
+
+The dataset can be collected from real estate websites or sample datasets.
+
+---
+
+5. Algorithm Used
+
+Linear Regression
+
+Linear Regression is used because it is suitable for predicting continuous values like price. It helps in identifying the relationship between input features and output.
+
+---
+
+6. Working
+
+7. Collect dataset
+
+8. Clean and preprocess data
+
+9. Train Linear Regression model
+
+10. Input new values (area, rooms, etc.)
+
+11. Predict house price
+
+---
+
+7. Expected Output
+
+The system will take input such as area and number of rooms and output the predicted house price.
+
+Example:
+Input: Area = 1200 sq ft
+Output: Estimated Price = ₹35,00,000
+
+---
+
+8. Conclusion
+
+This project will help users estimate house prices easily using machine learning. It demonstrates the practical application of Linear Regression in real life.
+
+---
