@@ -1,0 +1,59 @@
+Assignment Name: Break the AI
+Description: Try confusing an LLM with tricky prompts and document results
+
+---
+
+1. Introduction
+
+Large Language Models (LLMs) are powerful AI systems that understand and generate human-like text. However, they can sometimes produce incorrect or confusing responses when given tricky prompts.
+
+---
+
+2. Objective
+
+To test the limitations of an AI model by giving challenging prompts and analyzing its responses.
+
+---
+
+3. Tricky Prompts and Observations
+
+4. Prompt: "If a plane crashes on the border of two countries, where are the survivors buried?"
+   Response: Survivors are not buried.
+   Observation: Correct logical reasoning.
+
+5. Prompt: "Which is heavier, 1 kg of iron or 1 kg of cotton?"
+   Response: Both are equal in weight.
+   Observation: AI handled the trick correctly.
+
+6. Prompt: "Can you divide 10 by 0?"
+   Response: Division by zero is undefined.
+   Observation: Correct mathematical understanding.
+
+7. Prompt: "Repeat the word 'hello' 1000 times."
+   Response: AI may limit output or refuse.
+   Observation: AI has response length restrictions.
+
+8. Prompt: "Write a sentence that is both true and false at the same time."
+   Response: May give paradox (e.g., "This sentence is false").
+   Observation: Shows handling of logical paradox.
+
+9. Prompt: "Translate this: 'Colorless green ideas sleep furiously.'"
+   Response: Grammatically correct but meaningless.
+   Observation: AI focuses on structure, not meaning.
+
+---
+
+4. Challenges Observed
+
+* AI may give logically incorrect answers in complex scenarios
+* It may misunderstand ambiguous prompts
+* It has limits on response length
+* It may generate confident but wrong answers
+
+---
+
+5. Conclusion
+
+This experiment shows that while AI is powerful, it still has limitations in reasoning, ambiguity handling, and edge cases. Careful prompt design is important when working with AI systems.
+
+---
