@@ -1,0 +1,52 @@
+Assignment Name: Semantic Meaning
+Description: Find 5 word pairs and explain semantic similarity
+
+---
+
+1. Introduction
+
+Semantic similarity refers to how closely related two words are in meaning. It is an important concept in Natural Language Processing (NLP) used in tasks like search engines, chatbots, and recommendation systems.
+
+---
+
+2. Objective
+
+To identify word pairs and explain their semantic relationship.
+
+---
+
+3. Word Pairs with Explanation
+
+4. Happy – Joyful
+   These words have very similar meanings and express positive emotions. They are synonyms.
+
+5. Big – Large
+   Both words describe size and are often used interchangeably. They have high semantic similarity.
+
+6. Fast – Quick
+   These words indicate speed and are closely related in meaning.
+
+7. Car – Vehicle
+   A car is a type of vehicle. These words have a hierarchical relationship (general and specific).
+
+8. Teacher – Educator
+   Both refer to a person who provides education or knowledge. They are semantically similar.
+
+---
+
+4. Importance
+
+Semantic similarity helps machines understand language better. It is used in:
+
+* Search engines
+* Chatbots
+* Text analysis
+* Recommendation systems
+
+---
+
+5. Conclusion
+
+Understanding semantic similarity improves how machines interpret human language and helps in building intelligent systems.
+
+---
