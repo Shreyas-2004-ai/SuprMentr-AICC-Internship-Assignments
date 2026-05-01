@@ -1,0 +1,96 @@
+Assignment Name: Prompt Engineer
+Description: Write prompts for resume, business idea, study plan and compare weak vs strong prompts
+
+---
+
+1. Introduction
+
+Prompt engineering is the process of designing effective inputs (prompts) to get accurate and useful responses from AI models. A well-structured prompt gives better results than a vague one.
+
+---
+
+2. Objective
+
+To compare weak and strong prompts and understand how prompt design affects AI output.
+
+---
+
+3. Prompt Comparisons
+
+---
+
+A. Resume Generation
+
+Weak Prompt:
+"Make my resume"
+
+Problem:
+
+* Too vague
+* No details provided
+
+Strong Prompt:
+"Create a professional resume for a 3rd-year Computer Science student skilled in Python, JavaScript, React, and AWS. Include projects, skills, and internship experience in a clean format."
+
+Improvement:
+
+* Clear role
+* Specific skills
+* Structured output
+
+---
+
+B. Business Idea
+
+Weak Prompt:
+"Give me a business idea"
+
+Problem:
+
+* No domain or constraints
+* Generic output
+
+Strong Prompt:
+"Suggest a unique startup idea in the food industry targeting college students in India, focusing on low cost and high scalability."
+
+Improvement:
+
+* Target audience
+* Domain specified
+* Constraints included
+
+---
+
+C. Study Plan
+
+Weak Prompt:
+"Make a study plan"
+
+Problem:
+
+* No subject or timeline
+
+Strong Prompt:
+"Create a 30-day study plan for learning Python and cloud computing for a beginner, including daily topics and practice tasks."
+
+Improvement:
+
+* Time-bound
+* Subjects defined
+* Structured output
+
+---
+
+4. Key Differences
+
+* Weak prompts are vague and unclear
+* Strong prompts are specific and detailed
+* Strong prompts include context, constraints, and goals
+
+---
+
+5. Conclusion
+
+Prompt engineering plays a crucial role in getting accurate results from AI systems. Well-designed prompts improve output quality and efficiency.
+
+---
