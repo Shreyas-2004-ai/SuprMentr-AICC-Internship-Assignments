@@ -1,0 +1,71 @@
+Assignment Name: Detection Brainstorm
+Description: List 5 uses of face/object detection and design one solution
+
+---
+
+1. Introduction
+
+Face and object detection are important applications of computer vision. They help machines identify and locate objects or faces in images and videos.
+
+---
+
+2. Objective
+
+To explore real-world uses of detection systems and design a practical solution.
+
+---
+
+3. Uses of Face/Object Detection
+
+4. Face Unlock in Smartphones
+
+   * Used to unlock devices using facial recognition
+
+5. Attendance Systems
+
+   * Automatically mark attendance using face detection
+
+6. Security Surveillance
+
+   * Detect suspicious people or objects in public places
+
+7. Autonomous Vehicles
+
+   * Detect pedestrians, vehicles, and obstacles
+
+8. Retail Analytics
+
+   * Track customer movement and behavior in stores
+
+---
+
+4. Designed Solution
+
+Title: Smart Attendance System using Face Detection
+
+Problem:
+Manual attendance systems are time-consuming and can be manipulated.
+
+Solution:
+Use face detection to automatically mark attendance.
+
+Working:
+
+1. Capture live video using camera
+2. Detect faces in the frame
+3. Match faces with stored student data
+4. Mark attendance automatically
+
+Expected Output:
+
+* Accurate attendance records
+* Reduced manual work
+* Faster process
+
+---
+
+5. Conclusion
+
+Face and object detection have many real-world applications. They improve efficiency, security, and automation in various fields.
+
+---
